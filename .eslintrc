@@ -1,0 +1,10 @@
+{
+    "env": {
+        // Add Node and Mocha globals
+        "node": true
+    },
+    "rules": {
+        // Allow single or double quotes
+        "quotes": 0
+    }
+}
